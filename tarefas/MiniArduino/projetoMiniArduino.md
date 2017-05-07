@@ -1,9 +1,8 @@
-###Grupo:
+Grupo:
 
--Tiago Rezende 
--Igor Touguinhó
+-Tiago Rezende e Igor Touguinhó
 
-###Mini Projeto - Sensor de distancia 
+Mini Projeto - Sensor de distancia 
 
 
 
@@ -12,7 +11,7 @@ a utilização de alguns leds. Conforme algum objeto se aproxime do sensor, ele 
 fazer barulho em intervalos cada vez menores de acordo com a proximidade do objeto. Se o objeto se aproximar muito,
 quase encostando na placa e no sensor, os leds começarao a piscar em sinal de alerta para a colisao. 
 
-###Componentes:
+Componentes:
 
 - 1x sensor de distancia 
 - 4x led
