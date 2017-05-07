@@ -1,6 +1,6 @@
 Grupo:
 
--Tiago Rezende e Igor Touguinhó
+- Tiago Rezende e Igor Touguinhó
 
 Mini Projeto - Sensor de distancia 
 
