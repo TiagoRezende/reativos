@@ -306,8 +306,8 @@ watching sdl do
               end
             end
           end
-                with
-                    var&? Player p1;
+        with
+          var&? Player p1;
           loop p1 in players do
           //atirar ao pressionar o botao
                         var int lastserial = 0;
@@ -320,8 +320,8 @@ watching sdl do
                                 spawn Bullet(p1!.r2.x,p1!.r2.y) in bullets;
                             end
                         end
-        end
-      end
+          end
+    end  
     with
       await 1s;
       await go_finish_him;
