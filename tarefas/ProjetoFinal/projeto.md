@@ -10,6 +10,7 @@ cuidará da movimentação do personagem dentro do cenário do jogo.
  * 1 Botão
  
  Divisão de tarefas:
+ 
   Leitura do joystick e Integração com o jogo (Tiago Rezende)
   
   Modificações no jogo e Integração com o botão do arduino (Igor Touguinhó) 
